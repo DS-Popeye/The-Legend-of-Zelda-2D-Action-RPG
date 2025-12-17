@@ -1,0 +1,31 @@
+{
+    "activeFile": "details.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Floor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "details.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.25
+        }
+    },
+    "openFiles": [
+        "details.tsx",
+        "Floor.tsx",
+        "ground.tsx"
+    ],
+    "project": "Action-game.tiled-project",
+    "recentFiles": [
+        "ground.tsx",
+        "Floor.tsx",
+        "details.tsx"
+    ]
+}
