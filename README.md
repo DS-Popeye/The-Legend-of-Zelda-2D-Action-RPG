@@ -10,13 +10,10 @@ A clean object-oriented architecture is used, where core gameplay entities inher
 
 This project is suitable for:
 
-- University coursework
-
 - Programming and OOP demonstrations
 
 - Game development practice
 
-- Academic reports and documentation
 
 ## ✨ Features
 
