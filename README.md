@@ -78,10 +78,7 @@ Install Pygame using:
 
 2. Navigate to the code/ directory:
 
-3. `cd "15 - fixes audio/code"`
-
-
-Run the game:
+3.Run the game:
 
 `python main.py`
 
