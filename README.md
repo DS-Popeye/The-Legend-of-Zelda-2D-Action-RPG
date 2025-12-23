@@ -101,9 +101,9 @@ If everything is configured correctly, the game window will open.
 
 | Entity Type | Icon | Name | Damage / Strength | Notes |
 |------------|------|------|-------------------|-------|
-| Weapon | ![](sword.png) | Sword | 15 | Fast attack, low damage |
-| Weapon | ![](axe.png) | Axe | 20 | Medium speed and damage |
-| Weapon | ![](lance.png) | Lance | 30 | Slow attack, high damage |
+| Weapon | ![](images/sword.png) | Sword | 15 | Fast attack, low damage |
+| Weapon | ![](images/axe.png) | Axe | 20 | Medium speed and damage |
+| Weapon | ![](images/lance.png) | Lance | 30 | Slow attack, high damage |
 | Magic | — | Flame | 5 | Area damage, energy cost |
 | Magic | — | Heal | +20 HP | Restores player health |
 | Enemy | — | Squid | 20 | Fast melee attacker |
